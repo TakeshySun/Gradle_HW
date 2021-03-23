@@ -61,3 +61,5 @@ NewProject.iml
 debug.log
 mavenProj.iml
 *.log
+.gradle
+build
